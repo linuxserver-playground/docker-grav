@@ -1,10 +1,10 @@
-NAME                                VERSION              TYPE                         
+NAME                                VERSION              TYPE                          
 Hidden Input                        1, 0, 0, 0           binary        (+1 duplicate)  
 acl-libs                            2.3.2-r1             apk                           
 alpine-baselayout                   3.7.2-r1             apk                           
 alpine-baselayout-data              3.7.2-r1             apk                           
 alpine-keys                         2.6-r0               apk                           
-alpine-release                      3.24.2-r0            apk                           
+alpine-release                      3.24.3-r0            apk                           
 antoligy/dom-string-iterators       v1.0.1               php-composer                  
 aom-libs                            3.14.1-r0            apk                           
 apache2-utils                       2.4.69-r0            apk                           
@@ -14,7 +14,7 @@ apr-util                            1.6.4-r0             apk
 argon2-libs                         20190702-r5          apk                           
 bacon/bacon-qr-code                 2.0.8                php-composer                  
 bash                                5.3.9-r1             apk                           
-brotli-libs                         1.2.0-r1             apk                           
+brotli-libs                         1.2.1-r0             apk                           
 busybox                             1.37.0-r31           apk                           
 busybox-binsh                       1.37.0-r31           apk                           
 busybox-suid                        1.37.0-r31           apk                           
@@ -22,15 +22,15 @@ c-ares                              1.34.9-r0            apk
 ca-certificates                     20261020-r0          apk                           
 ca-certificates-bundle              20261020-r0          apk                           
 catatonit                           0.2.1-r0             apk                           
-composer                            2.10.3               binary                        
-composer                            2.8.12               binary                        
+composer                            2.10.3               php-composer                  
+composer                            2.8.12               php-composer                  
 composer/ca-bundle                  1.5.14               php-composer                  
 composer/semver                     3.4.4                php-composer                  
 coreutils                           9.11-r0              apk                           
 coreutils-env                       9.11-r0              apk                           
 coreutils-fmt                       9.11-r0              apk                           
 coreutils-sha512sum                 9.11-r0              apk                           
-curl                                8.22.0-r0            apk                           
+curl                                8.23.0-r0            apk                           
 dasprid/enum                        1.0.7                php-composer                  
 doctrine/collections                2.6.0                php-composer                  
 doctrine/deprecations               1.1.6                php-composer  (+1 duplicate)  
@@ -65,7 +65,7 @@ libavif                             1.4.1-r0             apk
 libbsd                              0.12.2-r0            apk                           
 libbz2                              1.0.8-r6             apk                           
 libcrypto3                          3.5.9-r0             apk                           
-libcurl                             8.22.0-r0            apk                           
+libcurl                             8.23.0-r0            apk                           
 libdav1d                            1.5.3-r0             apk                           
 libedit                             20260508.3.1-r1      apk                           
 libexpat                            2.9.0-r0             apk                           
@@ -105,8 +105,8 @@ miljar/php-exif                     v0.6.5               php-composer
 mober/rememberme                    1.0.4                php-composer                  
 monolog/monolog                     3.12.0               php-composer                  
 multiavatar/multiavatar-php         v1.0.5               php-composer                  
-musl                                1.2.6-r2             apk                           
-musl-utils                          1.2.6-r2             apk                           
+musl                                1.2.6-r3             apk                           
+musl-utils                          1.2.6-r3             apk                           
 nano                                9.3-r0               apk                           
 ncurses-terminfo-base               6.6_p20260516-r0     apk                           
 netcat-openbsd                      1.234.1-r0           apk                           
