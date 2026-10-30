@@ -9,6 +9,8 @@ upstream:
   version:
     type: github_release
     repo: getgrav/grav
+    require_assets:
+      - asset: '^grav\-admin\-v.*\.zip$'
   notes:
     type: github_release
     repo: getgrav/grav
